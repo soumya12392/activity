@@ -4,5 +4,5 @@ function getScore() {
 }
 
 function back() {
-    window.location = "activity_1.html";
+    window.location = "index.html";
 }
